@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="40312803-0b31-4661-acac-527deb19c811" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/firebase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Login.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +39,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="168" y="120" width="1200" height="584" key="AVDManager" timestamp="1619278038630">
+    <state x="168" y="120" width="1200" height="584" key="AVDManager" timestamp="1619294661644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="168" y="120" width="1200" height="584" key="AVDManager/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1619278038630" />
+    <state x="168" y="120" width="1200" height="584" key="AVDManager/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1619294661644" />
   </component>
 </project>

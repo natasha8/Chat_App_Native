@@ -15,9 +15,10 @@ const Login = ({ navigation }) => {
 	const [password, setPassword] = useState("");
 
 	useEffect(() => {
-		const unsubscribe = auth.onAuthStateChange((authUser) => {
+		const unsubscribe = auth.onAuthStateChanged((authUser) => {
+			console.log(authUser);
 			if (authUser) {
-				navigation.replace("Home");
+				navigation.replace("HOME");
 			}
 		});
 		return unsubscribe;

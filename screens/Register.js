@@ -19,7 +19,7 @@ const Register = ({ navigation }) => {
 	const register = () => {
 		auth.createUserWithEmailAndPassword(email, password)
 			.then((authUser) => {
-				authUser.user.update({
+				authUser.user.updateProfile({
 					displayName: fullName,
 					photoURL:
 						imageUrl ||
